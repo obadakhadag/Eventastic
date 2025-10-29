@@ -5,26 +5,6 @@ This repo contains only the **Flutter front-end** (no Laravel backend).
 
 ---
 
-## 📸 App Screenshots
-
-<p align="center">
-  <img src="docs/screenshots/Calendar.jpg"   alt="Calendar"   width="260" />
-  <img src="docs/screenshots/Event.jpg"      alt="Event"      width="260" />
-  <img src="docs/screenshots/Favorite.jpg"   alt="Favorite"   width="260" />
-</p>
-<p align="center">
-  <img src="docs/screenshots/HomePage.jpg"   alt="HomePage"   width="260" />
-  <img src="docs/screenshots/MyTickets.jpg"  alt="MyTickets"  width="260" />
-  <img src="docs/screenshots/MyWallet.jpg"   alt="MyWallet"   width="260" />
-</p>
-<p align="center">
-  <img src="docs/screenshots/profile.jpg"    alt="Profile"    width="260" />
-  <img src="docs/screenshots/SearchPage.jpg" alt="SearchPage" width="260" />
-  <img src="docs/screenshots/SideMenu.jpg"   alt="SideMenu"   width="260" />
-</p>
-
----
-
 ## ✨ Features  
 
 - 📅 Create, manage, and view events  
@@ -111,6 +91,24 @@ This app uses several Flutter packages:
 
 ---
 
-### 2. Install dependencies  
-```bash
-flutter pub get
+## 📸 App Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/Calendar.jpg"   alt="Calendar"   width="260" />
+  <img src="docs/screenshots/Event.jpg"      alt="Event"      width="260" />
+  <img src="docs/screenshots/Favorite.jpg"   alt="Favorite"   width="260" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/HomePage.jpg"   alt="HomePage"   width="260" />
+  <img src="docs/screenshots/MyTickets.jpg"  alt="MyTickets"  width="260" />
+  <img src="docs/screenshots/MyWallet.jpg"   alt="MyWallet"   width="260" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/profile.jpg"    alt="Profile"    width="260" />
+  <img src="docs/screenshots/SearchPage.jpg" alt="SearchPage" width="260" />
+  <img src="docs/screenshots/SideMenu.jpg"   alt="SideMenu"   width="260" />
+</p>
+
+
+
+
