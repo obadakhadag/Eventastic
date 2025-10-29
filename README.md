@@ -5,6 +5,14 @@ This repo contains only the **Flutter front-end** (no Laravel backend).
 
 ---
 
+## 📸 App Screenshots  
+
+<p align="center">
+  <img src="docs/screenshots/calendar.jpg" alt="Calendar Screen" width="280" />
+</p>
+
+---
+
 ## ✨ Features  
 
 - 📅 Create, manage, and view events  
