@@ -94,7 +94,7 @@ This app uses several Flutter packages:
 ## 📸 App Screenshots
 
 <p align="center">
-  <img src="docs/screenshots/Calendar.jpg"   alt="Calendar"   width="260" />
+  <!-- <img src="docs/screenshots/Calendar.jpg"   alt="Calendar"   width="260" /> -->
   <img src="docs/screenshots/Event.jpg"      alt="Event"      width="260" />
   <img src="docs/screenshots/Favorite.jpg"   alt="Favorite"   width="260" />
 </p>
